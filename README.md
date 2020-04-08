@@ -1,0 +1,2 @@
+# udk-creative-coding-processing
+In this course we are going to learn how to use coding as a practice to explore computational thinking. We will start from scratch, learning how to represent colors, line, shapes and 2D text. We will then learn about logical operators, arrays, vectors, forces and and how to use them to create our own drawing algorithms.  The course will use Processing as programming language and it is addressed to beginners.
