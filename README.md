@@ -15,10 +15,10 @@ Applications: `first`, `firstAnimation`
 
 ### References
 
--[Environment](https://processing.org/reference/environment/)
--[Overview](https://processing.org/tutorials/overview/)
--[Getting Started](https://processing.org/tutorials/gettingstarted/)
--[2D Drawing](https://processing.org/tutorials/drawing/)
+- [Environment](https://processing.org/reference/environment/)
+- [Overview](https://processing.org/tutorials/overview/)
+- [Getting Started](https://processing.org/tutorials/gettingstarted/)
+- [2D Drawing](https://processing.org/tutorials/drawing/)
 
 ## Colors
 
