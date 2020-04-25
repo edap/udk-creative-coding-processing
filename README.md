@@ -26,7 +26,7 @@ Description: Learn how to create colors and and how to change them.
 
 Keywords: `background()`, `stroke()`, `fill()`, `noStroke()`, `noFill()`, `colorMode`, `HSB`, `RGB`,`transparency and alpha channels`,
 
-Application: `colors`
+Application: `colors`, `colors-blendMode`, 
 
 ### Exercise(s)
 - Create your own palette, invent your own animation.
