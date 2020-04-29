@@ -48,6 +48,9 @@ Notes for the theacher:
 
 Description: Add interactivity to your sketches reading the mouse position or getting events from your keyboard.
 
+### Exercises
+- Make an application with the function `noLoop()` in the setup method. Re draw something on screen everytime a key on your keyboard is pressed. Everytime you draw, the composition should be slightly different.
+
 ### Reference
 [Interactivity](https://processing.org/tutorials/interactivity/)
 
