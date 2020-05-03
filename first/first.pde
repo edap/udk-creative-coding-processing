@@ -5,7 +5,7 @@ void setup(){
 }
 
 void draw(){
-  // rectangle? lines? ellipse? 
+  // rectangle? lines? ellipse? points?
   circle(400, 400, 40);
 }
 

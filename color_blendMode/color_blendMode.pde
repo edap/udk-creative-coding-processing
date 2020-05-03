@@ -1,10 +1,10 @@
 //https://processing.org/reference/blendMode_.html
 
 void setup() {
-  // How colros interact when overlaps
   size(800, 800);
+  // How colros interact when overlaps? Try to uncomment one of these lines
   //blendMode(MULTIPLY);
-  blendMode(ADD);
+  //blendMode(ADD);
   //blendMode(SUBTRACT);
   //blendMode(BLEND);
   //blendMode(DARKEST);
