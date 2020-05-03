@@ -30,3 +30,29 @@ void draw(){
 //  circle(mvn, 400, 40);
 // What if I want to draw just one time, and do not have any kind of animation? welcome to noLoop()
 //}
+
+
+//void setup() {
+//  size(800, 800);
+//}
+
+//void draw() {
+//  background(0,255,0);
+  
+//  fill(255, 0, 0);
+//  circle(mouseX, mouseY, 400);
+  
+//  if (mousePressed == true) {
+//      fill(0, 0, 255);
+//  } else {
+//    fill(255, 0, 255);
+//  }
+//  circle(200,200, 20);
+//}
+
+
+// What did you learn?
+// circle, rect, ellipse, line, square
+// noFill, fill, stroke, noStroke, strokeWeight
+// mouseX, mouseY, mousepressed, width, height
+// how to define/increase/decrease a variable

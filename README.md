@@ -11,7 +11,13 @@ Description: Learn how to draw 2D geometric shapes. Learn how to read the [refer
 
 Keywords: `cartesian plane`,  `circle`, `rect`, `variables`,`local variables`, `global variables`, `size`, `noLoop`, `60 FPS`
 
-Applications: `first`, `firstAnimation`
+Applications: `first`
+
+### Exercises:
+- Draw your initials with primitive shapes and lines.
+- Choose a painting from Mondrian, try to replicate it. If it feels too easy, try to replicate "On White II, 1923", by Kandinsky. Use a program as GIMP or photoshop to pick exactly the color
+- Take a picture with your phone, try to simplify its content, try to draw it using the primitive shapes you have learned.
+
 
 ### References
 
@@ -26,7 +32,7 @@ Description: Learn how to create colors and and how to change them.
 
 Keywords: `background()`, `stroke()`, `fill()`, `noStroke()`, `noFill()`, `colorMode`, `HSB`, `RGB`,`transparency and alpha channels`,
 
-Application: `colors`
+Application: `colors`, `colors-blendMode`, 
 
 ### Exercise(s)
 - Create your own palette, invent your own animation.
@@ -41,6 +47,9 @@ Notes for the theacher:
 ## Interact with mouse and keyboard
 
 Description: Add interactivity to your sketches reading the mouse position or getting events from your keyboard.
+
+### Exercises
+- Make an application with the function `noLoop()` in the setup method. Re draw something on screen everytime a key on your keyboard is pressed. Everytime you draw, the composition should be slightly different.
 
 ### Reference
 [Interactivity](https://processing.org/tutorials/interactivity/)
