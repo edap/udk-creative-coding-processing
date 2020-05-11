@@ -35,7 +35,7 @@ Keywords: `background()`, `stroke()`, `fill()`, `noStroke()`, `noFill()`, `color
 Application: `colors`, `colors-blendMode`, 
 
 ### Exercise(s)
-- Create your own palette, invent your own animation.
+- Create your own palette.
 
 Notes for the theacher: 
 - Exercises "Color" at page 88 of "Code as Creative Medium"
@@ -50,11 +50,12 @@ Description: Add interactivity to your sketches reading the mouse position or ge
 
 ### Exercises
 - Make an application with the function `noLoop()` in the setup method. Re draw something on screen everytime a key on your keyboard is pressed. Everytime you draw, the composition should be slightly different.
+- Make an applications that draw line on the screen
 
 ### Reference
 [Interactivity](https://processing.org/tutorials/interactivity/)
 
-## Logical operators, comparison operator, loop and conditions
+## Logical operators, comparison operator and conditions
 
 Description: Learn how to compare two variables, how to make a branch condition, how to make a loop.
 
@@ -72,6 +73,23 @@ Applications: `logicalOperators`, `comparisonOperators`
 
 ### References
 Sections Relational Operators, Logical Operators, Iteration and Conditional of the [processing reference page](https://processing.org/reference/)
+
+## Iteration.
+
+Description: get confident creating loops. Learn how to use the modulo operator.
+
+Keywords: `for`, `while`,`%`
+
+Exercises:
+
+- Make a grid where the color of the cells depends on some calculation that involves the modulo operator.
+
+- Make an application that uses 3 different sine waves with different amplitude and frequency.
+
+Notes for the teacher:
+- Exercises "Iteration", pag 86 of "Code as creative Medium"
+
+Applications: `iteration`
 
 ## Matrices
 
@@ -94,21 +112,6 @@ Exercise: Re-code "Schotter", by Georg Ness, 1965.
 
 ### Reference
 [Transformation in 2D](https://processing.org/tutorials/transform2d/)
-
-## Modulo operator and loops
-
-Description: get confident with the modulo operator and loop.
-
-Keywords: `%`, `for`, `while`
-
-Exercises:
-
-- Make a grid where the color of the cells depends on some calculation that involves the modulo operator.
-
-- Make an application that uses 3 different sine waves with different amplitude and frequency.
-
-Notes for the teacher:
-- Exercises "Iteration", pag 86 of "Code as creative Medium"
 
 
 ## Unit cirlce, sine wave
