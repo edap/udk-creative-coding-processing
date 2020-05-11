@@ -28,14 +28,16 @@ Applications: `first`
 
 ## Colors
 
-Description: Learn how to create colors and and how to change them.
+Description: Learn how to create colors and and how to change them. Joseph Albers introduction, introduction to color RGB and HSB color spaces.
 
 Keywords: `background()`, `stroke()`, `fill()`, `noStroke()`, `noFill()`, `colorMode`, `HSB`, `RGB`,`transparency and alpha channels`,
 
 Application: `colors`, `colors-blendMode`, 
 
+
+
 ### Exercise(s)
-- Create your own palette.
+- Create and display your own palette.
 
 Notes for the theacher: 
 - Exercises "Color" at page 88 of "Code as Creative Medium"
@@ -84,12 +86,10 @@ Exercises:
 
 - Make a grid where the color of the cells depends on some calculation that involves the modulo operator.
 
-- Make an application that uses 3 different sine waves with different amplitude and frequency.
-
 Notes for the teacher:
 - Exercises "Iteration", pag 86 of "Code as creative Medium"
 
-Applications: `iteration`
+Applications: `iteration`, `moduloOperator`, `aSimpleGrid`
 
 ## Matrices
 
@@ -118,6 +118,7 @@ Exercise: Re-code "Schotter", by Georg Ness, 1965.
 
 Description:
 
+- Understanding waves, frequency and amplitude.
 - Understanding sin of time, plotting the sin(time) on the x axis.
 - Understanding the unit circle [gif](https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif).
 - How to represent a point in cartesian and in polar space, how to convert from one space to the other.
@@ -130,6 +131,7 @@ Applications: `sine-waves-loop`
 
 Homeworks:
 - Make an application that draws a spiral.
+- Make an application that uses 3 different sine waves with different amplitude and frequency.
 
 ### References
 [Trigonometry Primer](https://processing.org/tutorials/trig/)
