@@ -45,6 +45,8 @@ Notes for the theacher:
 ### References
 - [The Interaction of Colors](https://www.goodreads.com/book/show/111113.Interaction_of_Color) by Joseph Albers.
 - [Color's tutorial](https://processing.org/tutorials/color/)
+- [Jamie Wong post, technical](http://jamie-wong.com/post/color/)
+- [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
 
 ## Interact with mouse and keyboard
 
