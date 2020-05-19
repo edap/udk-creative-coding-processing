@@ -106,7 +106,7 @@ rotate()
 radians()
 ```
 
-Application: `introToMatrices`
+Application: `introToMatrices`, `rotateMatrix`, `rotateInTime`, `print10`
 
 Exercise: Re-code "Schotter", by Georg Ness, 1965.
 
@@ -192,7 +192,7 @@ Keywords: `noiseSeed`,`randomSeed`,`random`, `noise`
 Notes for the teacher:
 Exercises "Unpredictability" pag. 106 of "Code as Creative Medium".
 
-Applications `noiseExample`, `randomExample`
+Applications `noiseExample`, `randomExample`, `noiseAndTranslate`
 
 References: 
 - [A Million Random Digits](https://en.wikipedia.org/wiki/A_Million_Random_Digits_with_100,000_Normal_Deviates)
