@@ -101,7 +101,7 @@ Applications: `iteration`, `moduloOperator`, `aSimpleGrid`
 
 ## Matrices
 
-Description: Learn how to move and rotate your shapes
+Description: Learn how to move and rotate your shapes. A short introduction to the random() function
 
 Keywords:
 
@@ -114,7 +114,7 @@ rotate()
 radians()
 ```
 
-Application: `introToMatrices`, `rotateMatrix`, `rotateInTime`, `print10`
+Application: `introToMatrices`, `rotateMatrix`, `matrixTranslateGrid`, `rotateInTime`, `print10`
 
 Exercise: Re-code "Schotter", by Georg Ness, 1965.
 
