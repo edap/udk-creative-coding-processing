@@ -61,12 +61,11 @@ void draw(){
   // 4 add random rotation
   pushMatrix();
   translate(x+space/2,y+space/2);
-  stroke(255);
   noFill();
-  //rect(0,0,space,space);
   if(random(1.0) > 0.5){
     rotate(radians(90));
   }
+  stroke(255);
   line(-space/2,-space/2, space/2,space/2);
   popMatrix();
   
