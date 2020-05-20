@@ -114,7 +114,7 @@ rotate()
 radians()
 ```
 
-Application: `introToMatrices`, `rotateMatrix`, `matrixTranslateGrid`, `rotateInTime`, `print10`
+Application: `introToMatrices`, `rotateMatrix`, `matrixTranslateGrid`, `rotateInTime`, `translateRandomFunctionFace`, `print10`
 
 Exercise: Re-code "Schotter", by Georg Ness, 1965.
 
