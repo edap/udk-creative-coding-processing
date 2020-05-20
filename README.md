@@ -43,8 +43,16 @@ Notes for the theacher:
 - Exercises "Color" at page 88 of "Code as Creative Medium"
 
 ### References
+Rune Madsen's serie about color:
+
+- [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [Color spaces](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html)
+- [Color schemes](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html)
+- [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html)
+
 - [The Interaction of Colors](https://www.goodreads.com/book/show/111113.Interaction_of_Color) by Joseph Albers.
 - [Color's tutorial](https://processing.org/tutorials/color/)
+- [Jamie Wong post, technical](http://jamie-wong.com/post/color/)
 
 ## Interact with mouse and keyboard
 
