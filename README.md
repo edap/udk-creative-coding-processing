@@ -135,7 +135,7 @@ Keywords:
 
 SOHCAHTOA, sine and cosine waves, `millis()`, `map`.
 
-Applications: `sine-waves-loop`
+Applications: `sineWaveLoop`, `sineWave`, `polarCoord`
 
 Homeworks:
 - Make an application that draws a spiral.
