@@ -146,6 +146,36 @@ Homeworks:
 [Trigonometry Primer](https://processing.org/tutorials/trig/)
 
 
+## Arrays
+
+Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array.
+
+append()
+shorten()
+splice();
+arrayCopy(source, destination)
+length
+
+
+See, in order these app: `arrayPrimer`,`arrayReading`,`arraySaving`
+
+
+### Exercise(s)
+
+
+Notes for the teacher:
+- Exercises "Arrays" at pag. 91 of "Code as Creative Medium".
+
+
+Write a program that draws straight lines when
+the user clicks and drags. Color the longest line
+red.
+
+### References
+
+[Arrays](https://processing.org/tutorials/arrays/) 
+
+
 ## Path, lines, shapes, curves.
 
 Description: How to create shapes and lines connecting points.
@@ -155,7 +185,10 @@ Keywords: `PShape`, shapes.
 Application: `shapes-Blob`
 
 Notes for the teacher:
-Exercises "Curves" pag. 93 of "Code as Creative Medium".
+Exercises "Curves" pag. 93 of "Code as Creative Medium". 
+
+
+
 
 
 ### Exercises
@@ -167,29 +200,6 @@ Exercises "Curves" pag. 93 of "Code as Creative Medium".
 ### References
 [PShape](https://processing.org/tutorials/pshape/)
 [Curves](https://processing.org/tutorials/curves/)
-
-## Arrays
-
-Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array.
-
-append()
-shorten()
-arrayCopy(source, destination)
-length
-
-
-See, in order these app: `introToArray`
-
-
-### Exercise(s)
-
-
-Notes for the teacher:
-- Exercises "Arrays" at pag. 91 of "Code as Creative Medium".
-
-### References
-
-[Arrays](https://processing.org/tutorials/arrays/) 
 
 
 ## Noise and Random
