@@ -28,21 +28,31 @@ Applications: `first`
 
 ## Colors
 
-Description: Learn how to create colors and and how to change them.
+Description: Learn how to create colors and and how to change them. Joseph Albers introduction, introduction to color RGB and HSB color spaces.
 
 Keywords: `background()`, `stroke()`, `fill()`, `noStroke()`, `noFill()`, `colorMode`, `HSB`, `RGB`,`transparency and alpha channels`,
 
 Application: `colors`, `colors-blendMode`, 
 
+
+
 ### Exercise(s)
-- Create your own palette, invent your own animation.
+- Create and display your own palette.
 
 Notes for the theacher: 
 - Exercises "Color" at page 88 of "Code as Creative Medium"
 
 ### References
+Rune Madsen's serie about color:
+
+- [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [Color spaces](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html)
+- [Color schemes](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html)
+- [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html)
+
 - [The Interaction of Colors](https://www.goodreads.com/book/show/111113.Interaction_of_Color) by Joseph Albers.
 - [Color's tutorial](https://processing.org/tutorials/color/)
+- [Jamie Wong post, technical](http://jamie-wong.com/post/color/)
 
 ## Interact with mouse and keyboard
 
@@ -51,11 +61,12 @@ Description: Add interactivity to your sketches reading the mouse position or ge
 ### Exercises
 - Make an application with the function `noLoop()` in the setup method. Re draw something on screen everytime a key on your keyboard is pressed. Everytime you draw, the composition should be slightly different.
 - Draw a square in the screen, change its color when the mouse is over it.
+- Make an applications that draw line on the screen
 
 ### Reference
 [Interactivity](https://processing.org/tutorials/interactivity/)
 
-## Logical operators, comparison operator, loop and conditions
+## Logical operators, comparison operator and conditions
 
 Description: Learn how to compare two variables, how to make a branch condition, how to make a loop.
 
@@ -74,9 +85,24 @@ Applications: `logicalOperators`, `comparisonOperators`
 ### References
 Sections Relational Operators, Logical Operators, Iteration and Conditional of the [processing reference page](https://processing.org/reference/)
 
+## Iteration.
+
+Description: get confident creating loops. Learn how to use the modulo operator.
+
+Keywords: `for`, `while`,`%`
+
+Exercises:
+
+- Make a grid where the color of the cells depends on some calculation that involves the modulo operator.
+
+Notes for the teacher:
+- Exercises "Iteration", pag 86 of "Code as creative Medium"
+
+Applications: `iteration`, `moduloOperator`, `aSimpleGrid`
+
 ## Matrices
 
-Description: Learn how to move and rotate your shapes
+Description: Learn how to move and rotate your shapes. A short introduction to the random() function
 
 Keywords:
 
@@ -89,33 +115,19 @@ rotate()
 radians()
 ```
 
-Application: `introToMatrices`
+Application: `introToMatrices`, `rotateMatrix`, `matrixTranslateGrid`, `rotateInTime`, `translateRandomFunctionFace`, `print10`
 
 Exercise: Re-code "Schotter", by Georg Ness, 1965.
 
 ### Reference
 [Transformation in 2D](https://processing.org/tutorials/transform2d/)
 
-## Modulo operator and loops
-
-Description: get confident with the modulo operator and loop.
-
-Keywords: `%`, `for`, `while`
-
-Exercises:
-
-- Make a grid where the color of the cells depends on some calculation that involves the modulo operator.
-
-- Make an application that uses 3 different sine waves with different amplitude and frequency.
-
-Notes for the teacher:
-- Exercises "Iteration", pag 86 of "Code as creative Medium"
-
 
 ## Unit cirlce, sine wave
 
 Description:
 
+- Understanding waves, frequency and amplitude.
 - Understanding sin of time, plotting the sin(time) on the x axis.
 - Understanding the unit circle [gif](https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif).
 - How to represent a point in cartesian and in polar space, how to convert from one space to the other.
@@ -124,10 +136,11 @@ Keywords:
 
 SOHCAHTOA, sine and cosine waves, `millis()`, `map`.
 
-Applications: `sine-waves-loop`
+Applications: `sineWaveLoop`, `sineWave`, `polarCoord`
 
 Homeworks:
 - Make an application that draws a spiral.
+- Make an application that uses 3 different sine waves with different amplitude and frequency.
 
 ### References
 [Trigonometry Primer](https://processing.org/tutorials/trig/)
@@ -188,7 +201,7 @@ Keywords: `noiseSeed`,`randomSeed`,`random`, `noise`
 Notes for the teacher:
 Exercises "Unpredictability" pag. 106 of "Code as Creative Medium".
 
-Applications `noiseExample`, `randomExample`
+Applications `noiseExample`, `randomExample`, `noiseAndTranslate`
 
 References: 
 - [A Million Random Digits](https://en.wikipedia.org/wiki/A_Million_Random_Digits_with_100,000_Normal_Deviates)
