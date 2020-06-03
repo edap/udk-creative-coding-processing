@@ -15,7 +15,7 @@ void draw() {
   background(0);
   for(int i = 0; i< rads.length; i+= 1){
     // draw just the ripple that have started to grow
-    // meaning, the radius is bigger than 1
+    // meaning, the radius is bigger than 0
     if(rads[i] < limit && rads[i] > 0){
       drawRipple(xRipples[i],yRipples[i],rads[i]);
     }
