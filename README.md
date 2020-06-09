@@ -180,7 +180,7 @@ red.
 
 Description: What is randomness and what is noise, and how those are generated in the computer. Kevin Perlin and the Perlin noise in Tron.
 
-Keywords: `noiseSeed`,`randomSeed`,`random`, `noise`
+Keywords: `noiseSeed`,`randomSeed`,`random`, `noise`, `noiseDetail`
 
 Notes for the teacher:
 Exercises "Unpredictability" pag. 106 of "Code as Creative Medium".
