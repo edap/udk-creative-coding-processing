@@ -173,7 +173,27 @@ red.
 
 ### References
 
-[Arrays](https://processing.org/tutorials/arrays/) 
+[Arrays](https://processing.org/tutorials/arrays/)
+
+
+## Noise and Random
+
+Description: What is randomness and what is noise, and how those are generated in the computer. Kevin Perlin and the Perlin noise in Tron.
+
+Keywords: `noiseSeed`,`randomSeed`,`random`, `noise`
+
+Notes for the teacher:
+Exercises "Unpredictability" pag. 106 of "Code as Creative Medium".
+
+Applications `noiseExample`, `randomExample`, `noiseSeed`, `randomGaussian`, `noiseAndShape`
+
+References: 
+- [A Million Random Digits](https://en.wikipedia.org/wiki/A_Million_Random_Digits_with_100,000_Normal_Deviates)
+- [History of randomness](https://en.wikipedia.org/wiki/History_of_randomness)
+- [Random Number generators](https://en.wikipedia.org/wiki/Random_number_generation)
+- Paragraph "random" in the [processing reference](https://processing.org/reference/)
+- Processing documentation about [Perlin noise](https://processing.org/reference/noise_.html)
+
 
 
 ## Path, lines, shapes, curves.
@@ -190,10 +210,10 @@ Exercises "Curves" pag. 93 of "Code as Creative Medium".
 
 
 
-
 ### Exercises
 - Create your own shapes changing the algorithm that we have used to draw the circles
 - Move from polar coordinates to cartesian coordinates and viceversa. Have a look to the previous exercise about the unit circle.
+- Draw a landscape using Pshape and the noise function
 
 
 
@@ -202,22 +222,6 @@ Exercises "Curves" pag. 93 of "Code as Creative Medium".
 [Curves](https://processing.org/tutorials/curves/)
 
 
-## Noise and Random
-
-Description: What is randomness and what is noise, and how those are generated in the computer. Kevin Perlin and the Perlin noise in Tron.
-
-Keywords: `noiseSeed`,`randomSeed`,`random`, `noise`
-
-Notes for the teacher:
-Exercises "Unpredictability" pag. 106 of "Code as Creative Medium".
-
-Applications `noiseExample`, `randomExample`, `noiseAndTranslate`
-
-References: 
-- [A Million Random Digits](https://en.wikipedia.org/wiki/A_Million_Random_Digits_with_100,000_Normal_Deviates)
-- [History of randomness](https://en.wikipedia.org/wiki/History_of_randomness)
-- [Random Number generators](https://en.wikipedia.org/wiki/Random_number_generation)
-- Paragraph "random" in the [processing reference](https://processing.org/reference/)
 
 
 
