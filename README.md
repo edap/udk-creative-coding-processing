@@ -202,7 +202,7 @@ Description: How to create shapes and lines connecting points.
 
 Keywords: `PShape`, shapes.
 
-Application: `shapes-Blob`
+Application: `shapeCurve`, `shapeCurveSimple`, `shapeBlob`, `curve`, `curveBezier`, `curveArc`
 
 Notes for the teacher:
 Exercises "Curves" pag. 93 of "Code as Creative Medium". 
@@ -263,6 +263,9 @@ Keywords: `PVector`
 References
 - [Pvector](https://processing.org/reference/PVector.html)
 - [Nature of Code](https://natureofcode.com/book/chapter-1-vectors/). 
+
+
+Applications: `Mover`.
 
 
 ## Arduino
