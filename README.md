@@ -222,6 +222,26 @@ Exercises "Curves" pag. 93 of "Code as Creative Medium".
 [Curves](https://processing.org/tutorials/curves/)
 
 
+## Typography
+
+Description: How to add text to your sketch
+
+Keywords: `text()`, `textSize()`, `String s;` , `String[] fontList = PFont.list();`, `createFont`, `textFont`, `loadFont()`.
+
+
+Notes for the teacher:
+- Exercises "Typography" at pag. 105 of "Code as Creative Medium".
+
+Applications: `fontString`, `fontInstalled`, `fontAnimated`.
+
+
+### References
+[Text](https://processing.org/tutorials/text/)
+[Typography](https://processing.org/tutorials/typography/)
+[Custom Fonts](https://processing.org/reference/loadFont_.html)
+
+
+
 
 
 
@@ -235,22 +255,6 @@ Applications: `ImageLoadAndChange`, `ImageRandomPixel`
 
 Notes for the teacher:
 - Exercises "Image" at pag. 101 of "Code as Creative Medium".
-
-## Typography
-
-Description: How to add text to your sketch
-
-Keywords: `text()`, `textSize()`, `String s;` , `String[] fontList = PFont.list();`, `createFont`, `textFont`, `loadFont()`.
-
-
-Notes for the teacher:
-- Exercises "Typography" at pag. 105 of "Code as Creative Medium".
-
-Applications: `FontBoundingBoxExample`, `fontWaves`, `fontAndPixels`.
-
-
-### References
-[Typography](https://processing.org/tutorials/typography/)
 
 
 ## Vectors and Forces
