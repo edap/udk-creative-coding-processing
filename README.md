@@ -241,21 +241,23 @@ Applications: `fontString`, `fontInstalled`, `fontAnimated`.
 [Custom Fonts](https://processing.org/reference/loadFont_.html)
 
 
-
-
-
-
 ## Images
 
 Description: How to manipulate pixels one by one and save the result in an image.
 
-Keywords: `pixels[]`, `set()`, `updatePixels()`, `loadPixels()`, `get()`, `filter()`, `copy()`, `save()`,`saveFrame()`,
+Keywords: `pixels[]`, `set()`, `updatePixels()`, `loadPixels()`, `get()`, `filter()`, `copy()`, `save()`,`saveFrame()`, `loadImage`, `tint()`
 
-Applications: `ImageLoadAndChange`, `ImageRandomPixel`
+Applications: `ImageLoad`,`ImageMouseGrid` `ImageRandomPixel`
+
 
 Notes for the teacher:
 - Exercises "Image" at pag. 101 of "Code as Creative Medium".
 
+Credits:
+- Images in the exercises by [Johny Goerend](https://unsplash.com/photos/XQmOwiH1fiE) and [Milos Tonchevski](https://unsplash.com/photos/zVH_KLQWWM8)
+
+### References
+- [Processing website](https://processing.org/tutorials/pixels/)
 
 ## Vectors and Forces
 
