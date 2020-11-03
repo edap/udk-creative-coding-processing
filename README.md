@@ -18,6 +18,7 @@ Applications: `first`
 - Choose a painting from Mondrian, try to replicate it. If it feels too easy, try to replicate "On White II, 1923", by Kandinsky. Use a program as GIMP or photoshop to pick exactly the color
 - Take a picture with your phone, try to simplify its content, try to draw it using the primitive shapes you have learned.
 
+Application: `first`, 
 
 ### References
 
