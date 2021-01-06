@@ -37,7 +37,7 @@ Application: `colors`, `colors-blendMode`,
 
 
 ### Exercise(s)
-- Create and display your own palette.
+- Create and display your own palette. Create a custom function that draw a particular shape using a particular color.
 
 Notes for the theacher: 
 - Exercises "Color" at page 88 of "Code as Creative Medium"
@@ -87,7 +87,7 @@ Sections Relational Operators, Logical Operators, Iteration and Conditional of t
 
 ## Iteration.
 
-Description: get confident creating loops. Learn how to use the modulo operator.
+Description: get confident creating loops. Learn how to use the modulo operator. Learn about the scope of a variable.
 
 Keywords: `for`, `while`,`%`
 
