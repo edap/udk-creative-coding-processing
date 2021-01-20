@@ -150,14 +150,20 @@ Homeworks:
 
 There are two ways to work with array in processing, using traditional arrays and using array list. I suggest to use ArrayList, but in this repository you can find both.
 
-Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array. Learn how to use PVector to save a point(x,y)
+Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array. Learn how to use PVector to save a point(x,y).
+
+Keywords: container, item, index, to iterate.
 
 ### ArrayList
 
 add(item)
+
 size()
+
 remove(index)
+
 get(index)
+
 
 See, in order these app: `arrayListIntro`,`arrayListVector`,`arrayListVectorDelete`
 
@@ -165,9 +171,13 @@ See, in order these app: `arrayListIntro`,`arrayListVector`,`arrayListVectorDele
 ### Traditional Arrays
 
 append()
+
 shorten()
-splice();
+
+splice()
+
 arrayCopy(source, destination)
+
 length
 
 
