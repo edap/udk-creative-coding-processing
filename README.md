@@ -148,7 +148,21 @@ Homeworks:
 
 ## Arrays
 
-Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array.
+There are two ways to work with array in processing, using traditional arrays and using array list. I suggest to use ArrayList, but in this repository you can find both.
+
+Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array. Learn how to use PVector to save a point(x,y)
+
+### ArrayList
+
+add(item)
+size()
+remove(index)
+get(index)
+
+See, in order these app: `arrayListIntro`,`arrayListVector`,`arrayListVectorDelete`
+
+
+### Traditional Arrays
 
 append()
 shorten()
@@ -158,6 +172,7 @@ length
 
 
 See, in order these app: `arrayPrimer`,`arrayReading`,`arraySaving`
+
 
 
 ### Exercise(s)
@@ -174,6 +189,8 @@ red.
 ### References
 
 [Arrays](https://processing.org/tutorials/arrays/)
+[ArrayList](https://happycoding.io/tutorials/processing/arraylists#removing-from-an-arraylist)
+
 
 
 ## Noise and Random
