@@ -148,9 +148,9 @@ Homeworks:
 
 ## Arrays
 
-There are two ways to work with array in processing, using traditional arrays and using array list. I suggest to use ArrayList, but in this repository you can find both.
+There are two ways to work with array in processing, using traditional arrays and using ArrayList. I suggest to use ArrayList because they are easier to use, but in this repository you can find both.
 
-Description: Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array. Learn how to use PVector to save a point(x,y).
+Description: What is an array? what is an item? what does it mean to iterate through the items of an array? Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array. Learn how to use PVector to save a point(x,y).
 
 Keywords: container, item, index, to iterate.
 
@@ -199,7 +199,10 @@ red.
 ### References
 
 [Arrays](https://processing.org/tutorials/arrays/)
+
 [ArrayList](https://happycoding.io/tutorials/processing/arraylists#removing-from-an-arraylist)
+
+[ArrayList Video Tutorial by Daniel Shiffman](https://www.youtube.com/watch?v=HnSJZ4qTcwY)
 
 
 
