@@ -6,8 +6,11 @@ void draw(){
   translate(width/2, height/2);
   background(0,0,255);
   stroke(240,30,0);
-  line(0,+height/2,0,height/2);
-  line(-width/2,0,width/2,0);
-  // question, how to I draw a spinning circle?
-  // we can use matrices. How can I do this
+  // question, how to I draw a spinning rectangle?
+  
+  float radius = 200;
+  float y = sin(millis() * 0.001) * radius;
+  float x = cos(millis() * 0.001) * radius;
+  
+  rect(x,y,20,20);
 }
