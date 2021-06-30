@@ -148,9 +148,12 @@ Homeworks:
 
 ## Arrays
 
-There are two ways to work with array in processing, using traditional arrays and using ArrayList. I suggest to use ArrayList because they are easier to use, but in this repository you can find both.
+We will first introduce PVector to draw a point on a screen. We will then create an array of points.
 
 Description: What is an array? what is an item? what does it mean to iterate through the items of an array? Learn how to use array to store many data of the same type into one datastructure, how to iterate through the elements of an array. Learn how to use PVector to save a point(x,y).
+
+
+There are two ways to work with array in processing, using traditional arrays and using ArrayList. I suggest to use ArrayList because they are easier to use, but in this repository you can find both.
 
 Keywords: container, item, index, to iterate.
 
@@ -165,7 +168,7 @@ remove(index)
 get(index)
 
 
-See, in order these app: `arrayListIntro`,`arrayListVector`,`arrayListVectorDelete`
+See, in order these app: `pvectorPrimer`, `arrayListIntro`,`arrayListVector`,`arrayListVectorDelete`
 
 
 ### Traditional Arrays
